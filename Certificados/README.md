@@ -2,7 +2,7 @@
 ### 🎓 Certificações e Conquistas
 
 #### 📊 Análise de Dados & SQL (Google)
-* [cite_start]**Foundations: Data, Data, Everywhere** — [Ver Certificado](./certificados/2026-01-27-google-foundations-data.pdf) 
+* [cite_start]**Foundations: Data, Data, Everywhere** — [Ver Certificado](./certificados/2026-01-27-google-foundations-data.pdf,pdf) 
 * [cite_start]**Ask Questions to Make Data-Driven Decisions** — [Ver Certificado](./certificados/2026-02-14-google-ask-questions-data.pdf) 
 
 #### 🐍 Programação Python (Bootcamp TOTVS/DIO)
