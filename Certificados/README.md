@@ -2,7 +2,7 @@
 
 #### 📊 Análise de Dados & SQL (Google)
 * **Foundations: Data, Data, Everywhere** — [Ver Certificado](./2026-01-27-google-foundations-data.pdf.pdf)
-* **Ask Questions to Make Data-Driven Decisions** — [Ver Certificado](./2026-02-14-google-ask-questions-data.pdf)
+* **Ask Questions to Make Data-Driven Decisions** — [Ver Certificado](./2026-02-14-google-ask-questions-data.pdf.pdf)
 
 #### 🐍 Programação Python (Bootcamp TOTVS/DIO)
 * **Introdução ao Bootcamp: Fundamentos de Engenharia de Dados e ML** — [Ver Certificado](./2026-03-12-dio-totvs-fundamentos-dados.pdf)
