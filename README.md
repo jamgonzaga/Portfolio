@@ -25,7 +25,6 @@ WHERE: Aplica filtros lógicos para extrair apenas informações relevantes.
 📝 Desafios Práticos Resolvidos
 
 Todos os exercícios abaixo foram realizados utilizando o conjunto de dados público de bicicletas de Londres:
-
 bigquery-public-data.london_bicycles.cycle_hire
 
 🚲 1. Identificação de Estação por ID
