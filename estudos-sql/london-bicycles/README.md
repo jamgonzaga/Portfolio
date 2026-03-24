@@ -1,7 +1,7 @@
 
 # 🚲 Projeto: Bicicletas de Londres (Public Data)
 
-> Este projeto faz parte dos meus [**Estudos de SQL: Google Data Analytics**](../), focado em praticar consultas em conjuntos de dados públicos de larga escala.
+> Este projeto faz parte dos meus [**Estudos de SQL**](../), focado em praticar consultas em conjuntos de dados públicos de larga escala.
 
 ---
 
