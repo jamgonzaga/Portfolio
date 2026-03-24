@@ -31,9 +31,9 @@ Neste repositório, apresento a aplicação de conceitos fundamentais e avançad
 
 Abaixo, os estudos estão organizados por cenário de aplicação:
 
-### 🚲 [Análise de Mobilidade: Bicicletas de Londres](./01-london-bicycles)
+### 🚲 [Análise de Mobilidade: Bicicletas de Londres](./london-bicycles)
 * **Foco:** Extração de dados públicos (GCP) e filtros de duração/estação.
 
-### 👶 [Análise Demográfica: Nomes nos EUA](./02-babynames-usa)
+### 👶 [Análise Demográfica: Nomes nos EUA](./babynames-usa)
 * **Foco:** Ingestão manual de dados, estruturação de tabelas e consultas multi-tabelas.
 
